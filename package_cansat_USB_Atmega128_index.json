@@ -10,20 +10,20 @@
       },
       "platforms": [
         {
-          "name": "Cansat(USB Atmega128 11M)",
+          "name": "Cansat_Atmega128",
           "architecture": "avr",
-          "version": "0.1.0",
-          "category": "Contributed",
+          "version": "0.1.2",
+          "category": "Cansat",
           "help": {
             "online": ""
           },
-          "url": "https://github.com/thomasonw/ATmegaxxM1-C1/raw/gh-pages/ATmegaxxM1-C1-1.0.3.tar.gz",
-          "archiveFileName": "ATmegaxxM1-C1-1.0.3.tar.gz",
-          "checksum": "SHA-256:765FF255379D4B2E8FCD62DA28E807EE1AC7AF92D01856E7FC3D23B5A474ED22",
-          "size": "102816",
+          "url": "https://github.com/cchamchi/cansat/archive/CansatUSBAtmega128_v0.1.2.tar.gz",
+          "archiveFileName": "CansatUSBAtmega128_v0.1.2.tar.gz",
+          "checksum": "SHA-256:68ca5f8744e7928c4ffdc5f20f14214fb90e9be79ad44bf5b9fa8cd2ab5a1d81",
+          "size": "10061",
           "boards": [
-            {"name": "ATmega32M1"},
-            {"name": "ATmega64M1"}
+            {"name": "Cansat(USB_Atmega128_11M)"},
+            
           ],
           "toolsDependencies": [
             {
