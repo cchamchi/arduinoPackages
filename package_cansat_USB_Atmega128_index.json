@@ -19,6 +19,8 @@
           },
           "url": "https://github.com/cchamchi/cansat/archive/CansatUSBAtmega128_v0.1.2.tar.gz",
           "archiveFileName": "CansatUSBAtmega128_v0.1.2.tar.gz",
+          "checksum": "SHA-256:68ca5f8744e7928c4ffdc5f20f14214fb90e9be79ad44bf5b9fa8cd2ab5a1d81",
+          "size": "10061",
           "boards": [
             {"name": "Cansat(USB_Atmega128_11M)"},
             
