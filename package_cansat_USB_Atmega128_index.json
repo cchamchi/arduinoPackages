@@ -24,7 +24,7 @@
           "boards": [
             {"name": "Cansat(MKII ATmega128 11M)"},
             {"name": "ATmega128_16M"},
-            {"name": "Cansat(USB Atmega128 11M)"},
+            {"name": "Cansat(USB Atmega128 11M)"}
           ],
           "toolsDependencies": [
             {
