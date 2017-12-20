@@ -22,8 +22,9 @@
           "checksum": "SHA-256:3bc4c59179a16f4f50be6bf73dc239de5927745e58eb8363583d4cea3422d3f0",
           "size": "5246",
           "boards": [
-            {"name": "Cansat(USB_Atmega128_11M)"},
-            
+            {"name": "Cansat(MKII ATmega128 11M)"},
+            {"name": "ATmega128_16M"},
+            {"name": "Cansat(USB Atmega128 11M)"},
           ],
           "toolsDependencies": [
             {
