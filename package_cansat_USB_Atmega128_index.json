@@ -41,14 +41,14 @@
         {
           "name": "Cansat_Atmega128",
           "architecture": "avr",
-          "version": "0.1.6",
+          "version": "0.1.7",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/cchamchi/cansat"
           },
-          "url": "https://github.com/cchamchi/cansat/archive/CansatUSBAtmega128_v0.1.6.zip",
-          "archiveFileName": "CansatUSBAtmega128_v0.1.6.zip",
-          "checksum": "SHA-256:49e56eedc707ef3ceb919f634fd5706b4ad528ef9f8df795a6494e5211add07f",
+          "url": "https://github.com/cchamchi/cansat/archive/CansatUSBAtmega128_v0.1.7.zip",
+          "archiveFileName": "CansatUSBAtmega128_v0.1.7.zip",
+          "checksum": "SHA-256:2866c2b3acbf8c89e8b0302f90ae06596a9045aaba90c22a9baad1475c797a88",
           "boards": [
             {"name": "Cansat(MKII ATmega128 11M)"},
             {"name": "ATmega128_16M"},
