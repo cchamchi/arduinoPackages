@@ -66,7 +66,36 @@
               "version": "6.0.1-arduino5"
             }
           ]
-        }        
+        },  
+        {
+          "name": "Cansat_Atmega128",
+          "architecture": "avr",
+          "version": "0.1.8",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/cchamchi/cansat"
+          },
+          "url": "https://github.com/cchamchi/cansat/archive/CansatUSBAtmega128_v0.1.8.zip",
+          "archiveFileName": "CansatUSBAtmega128_v0.1.8.zip",
+          "checksum": "SHA-256:98487f1168438e13978d312a5d7d5f6cf23fc2b5c9fe1d3ce3c603b223e48b91",
+          "boards": [
+            {"name": "Cansat(MKII ATmega128 11M)"},
+            {"name": "ATmega128_16M"},
+            {"name": "Cansat(USB Atmega128 11M)"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }         
       ],
       "tools": []
     }
