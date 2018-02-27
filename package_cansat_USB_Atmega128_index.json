@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "CanSat",
-      "maintainer": "SatRec",
+      "maintainer": "SaTRec",
       "websiteURL": "https://github.com/cchamchi/cansat",
       "email": "cchamchi@naver.com",
       "help": {
