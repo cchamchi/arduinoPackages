@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "CanSat",
-      "maintainer": "SaTRec",
+      "maintainer": "Dongwon Lee and SaTRec",
       "websiteURL": "https://github.com/cchamchi/cansat",
       "email": "cchamchi@naver.com",
       "help": {
@@ -95,7 +95,36 @@
               "version": "6.0.1-arduino5"
             }
           ]
-        }         
+        },
+        {
+          "name": "Cansat_Atmega128",
+          "architecture": "avr",
+          "version": "0.1.9",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/cchamchi/cansat"
+          },
+          "url": "https://github.com/cchamchi/cansat/archive/CansatUSBAtmega128_v0.1.9.zip",
+          "archiveFileName": "CansatUSBAtmega128_v0.1.9.zip",
+          "checksum": "SHA-256:6a9cd36e4b084c6819179d7a29b27dda6cd943027bb4396f3061563e57b508c8",
+          "boards": [
+            {"name": "Cansat(MKII ATmega128 11M)"},
+            {"name": "ATmega128_16M"},
+            {"name": "Cansat(USB Atmega128 11M)"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }        
       ],
       "tools": []
     }
